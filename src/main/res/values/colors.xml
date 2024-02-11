@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="my_primary1">#282A3A</color>
+    <color name="my_primary1.1">#FFD700</color>
+    <color name="my_primary2">#362222</color>
+    <color name="my_primary3">#E53935</color>
+    <color name="black">#FF000000</color>
+    <color name="white">#FFFFFFFF</color>
+</resources>

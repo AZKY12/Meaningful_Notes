@@ -1,0 +1,16 @@
+<resources xmlns:tools="http://schemas.android.com/tools">
+    <!-- Base application theme. -->
+    <style name="Base.Theme.MeaningfulNotes" parent="Theme.Material3.DayNight.NoActionBar">
+        <!-- Customize your light theme here. -->
+        <!-- Primary brand color. -->
+        <item name="colorPrimary">@color/my_primary1</item>
+        <item name="colorPrimaryVariant">@color/my_primary1</item>
+        <item name="colorOnPrimary">@color/white</item>
+        <!-- Secondary brand color. -->
+        <item name="colorSecondary">@color/my_primary2</item>
+        <item name="colorSecondaryVariant">@color/my_primary3</item>
+        <item name="colorOnSecondary">@color/black</item>
+        <!-- Status bar color. -->    </style>
+
+    <style name="Theme.MeaningfulNotes" parent="Base.Theme.MeaningfulNotes" />
+</resources>
